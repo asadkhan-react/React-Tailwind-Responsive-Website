@@ -1,0 +1,5 @@
+$primaryColor : #f28c1b ;
+$secondryColor : #623189 ;
+$secondryColor2 : #242582 ;
+
+#46a29f
